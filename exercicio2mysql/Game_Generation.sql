@@ -41,7 +41,7 @@ values("Fortnite","2ª fase");
 select * from tb_classes;
 
 INSERT INTO tb_personagens(nome_personagens,nivel,habilidades,poder_ataque,poder_defesa,id_classe)
-values("Mario ",2 ,"pular",10000,1900.87,2);
+values("Mario ",2 ,"pular",10000,1900.87,2);tb_categorias
 INSERT INTO tb_personagens(nome_personagens,nivel,habilidades,poder_ataque,poder_defesa,id_classe)
 values("Luigid ",5 ,"correr",40000,20000.00,3);
 INSERT INTO tb_personagens(nome_personagens,nivel,habilidades,poder_ataque,poder_defesa,id_classe)
